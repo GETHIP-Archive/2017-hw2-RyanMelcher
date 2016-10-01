@@ -6,7 +6,7 @@
     "favoriteMovies":
     [
         {"movie": "Pirates of the Caribbean"},
-        {"movie": "Harry Potter"}
+        {"movie": "Harry Potter"},
         {"movie": "Pulp Fiction"}
     ]
 }
