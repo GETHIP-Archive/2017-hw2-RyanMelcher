@@ -1,0 +1,12 @@
+{
+    "firstName":"Ryan",
+    "lastName":"Melcher",
+    "age":16,
+    "picture": "http://www.intriguing.com/mp/_pictures/grail/large/HolyGrail034.jpg",
+    "favoriteMovies":
+    [
+        {"movie": "Pirates of the Caribbean"},
+        {"movie": "Harry Potter"}
+        {"movie": "Pulp Fiction"}
+    ]
+}
